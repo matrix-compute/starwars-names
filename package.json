@@ -59,7 +59,7 @@
     "mocha": "3.0.1",
     "npm-run-all": "2.3.0",
     "nyc": "7.1.0",
-    "rimraf": "2.5.4",
+    "rimraf": "2.7.1",
     "semantic-release": "^4.2.1",
     "webpack": "1.13.1"
   },
